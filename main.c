@@ -10,3 +10,4 @@ int main(void) {
     printf("%d", result);   //resultを表示
     return 0;
 }
+ 
