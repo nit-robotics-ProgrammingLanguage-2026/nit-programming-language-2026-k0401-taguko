@@ -2,7 +2,7 @@
 
 int main(void) {
     /* 課題0401: 入力されたintのデータを+100した結果を，int(桁数指定なし)として表示するプログラムを書け． */
-    int i;
+    int i, b;
     int result;
 
     scanf("%d",&i);         // キーボードからiに入力
